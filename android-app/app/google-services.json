@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716139016077",
+    "firebase_url": "https://naildetector.firebaseio.com",
+    "project_id": "naildetector",
+    "storage_bucket": "naildetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716139016077:android:629fcc30f2e6d9d10b57c4",
+        "android_client_info": {
+          "package_name": "com.example.naildetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716139016077-lhac0mu6e0fdudohil33hsqquav18lo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naildetector",
+            "certificate_hash": "d3795a51ea9d1ff519ecaf33533a32d910b7f302"
+          }
+        },
+        {
+          "client_id": "716139016077-prrie3b11u540en0fci9embc2d7t4rdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR1UeXx24E9QI488gwRhUttEY9BgmrWDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716139016077-prrie3b11u540en0fci9embc2d7t4rdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
